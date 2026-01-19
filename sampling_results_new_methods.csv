@@ -1,0 +1,6 @@
+,Sampling1_SimpleRandom,Sampling2_Systematic,Sampling3_Bootstrap,Sampling4_CrossValidation,Sampling5_Stratified
+M1_LogisticRegression,90.95,87.5,91.38,92.24,89.22
+M2_DecisionTree,96.12,96.55,96.98,96.98,98.28
+M3_RandomForest,99.14,99.14,99.14,99.14,99.14
+M4_SVM,86.64,84.91,62.93,85.34,86.21
+M5_KNN,96.55,94.4,97.84,97.41,96.98
