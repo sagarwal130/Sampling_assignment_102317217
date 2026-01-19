@@ -1,0 +1,6 @@
+,Sampling1_ROS,Sampling2_RUS,Sampling3_SMOTE,Sampling4_NearMiss,Sampling5_SMOTETomek
+M1_LogisticRegression,91.81,57.76,93.53,18.53,92.67
+M2_DecisionTree,96.98,38.79,98.71,15.95,97.84
+M3_RandomForest,99.14,66.81,98.71,50.86,98.71
+M4_SVM,87.5,74.57,43.53,38.79,43.53
+M5_KNN,97.84,75.0,72.41,39.66,73.71
